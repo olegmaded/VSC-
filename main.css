@@ -61,21 +61,20 @@ body{
 	/*text-align: center;*//*Текст выравнивается по центру*/
 	text-align: justify; /*Текст выравнивается по левому краю*/
 	margin: 0; /* Убираем отступы у страницы */	
-	
-	}
+    }
 div { 
-     /*background: #fc0; /* Цвет фона блока */
-    /*padding: 10px; /* Поля блока*/
+        /*background: #fc0; /* Цвет фона блока */
+       /*padding: 10px; /* Поля блока*/
 	font-family:Courier New;/*ТИП шрифта в блоке*/
-    font-size: 25px;/*Размер шрифта в блоке*/
+     font-size: 25px;/*Размер шрифта в блоке*/
 	font-weight: 600;	/*Высота шрифта в блоке*/
-    -moz-box-sizing: border-box; /* Для Firefox */
-    -webkit-box-sizing: border-box; /* Для Safari и Chrome */
-    box-sizing: border-box; /* Для IE и Opera */
+     -moz-box-sizing: border-box; /* Для Firefox */
+     -webkit-box-sizing: border-box; /* Для Safari и Chrome */
+      box-sizing: border-box; /* Для IE и Opera */
 	border: 0px solid #B25538; /*толщина границ блока*/
 	/*text-align: center;/*Текст заголовка выравнивается по центру*/
 	overflow: auto; /* Добавляем полосы прокрутки */
-    /*padding-left: 5px; /* Отступ от текста слева */
+        /*padding-left: 5px; /* Отступ от текста слева */
 	background-image:C:\Users\maded\Desktop\index\Веселый фон.jpg;/* Путь к фоновому изображению */
 	/*background: url(images/hand.png) repeat-y #fc0; /* Цвет фона,путь к фоновому изображению и повторение фона по вертикали */
       }
