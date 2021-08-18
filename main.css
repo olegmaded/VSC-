@@ -3,7 +3,7 @@ html {
 	/*height: 100%; /* Высота родителя блока */
    }
 h1  {
-	color:#808080;/*Цвет шрифта заголовка*/
+    color:#808080;/*Цвет шрифта заголовка*/
     font-family:URW Chancery L;/*ТИП шрифта заголовка*/
     font-size: 45px;/*Размер шрифта заголовка*/
     font-weight: 900;	/*Высота шрифта заголовка*/
@@ -62,9 +62,9 @@ body{
 	margin: 0; /* Убираем отступы у страницы */	
     }
 div { 
-        /*background: #fc0; /* Цвет фона блока */
-       /*padding: 10px; /* Поля блока*/
-	font-family:Courier New;/*ТИП шрифта в блоке*/
+      /*background: #fc0; /* Цвет фона блока */
+      /*padding: 10px; /* Поля блока*/
+     font-family:Courier New;/*ТИП шрифта в блоке*/
      font-size: 25px;/*Размер шрифта в блоке*/
 	font-weight: 600;	/*Высота шрифта в блоке*/
      -moz-box-sizing: border-box; /* Для Firefox */
