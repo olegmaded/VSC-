@@ -109,12 +109,12 @@
               </tfoot>          
         </table>
           <br></br>
-		<img src="C:\Users\maded\Desktop\index\Кот в очках.jpg" height="200" width="400" alt="">
-		<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
+	<img src="C:\Users\maded\Desktop\index\Кот в очках.jpg" height="200" width="400" alt="">
+	<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
     	<br></br>
         <br></br>
 	<a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">В начало страницы</a>
-		<br></br>
+	<br></br>
         <br></br>
      <footer>
       Какая-то информация об авторском праве
