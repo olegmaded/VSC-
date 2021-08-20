@@ -88,14 +88,14 @@ footer { /*Подвал страницы*/
 container {
     padding: 20px;
             }
-main-content {
+  main-content {
   margin-right: 10px;/**/ 
   /*background-image:C:\Users\maded\Desktop\index\Веселый фон.jpg;/* Путь к фоновому изображению */
   /*background: #C9CCC8;/*Фон колонки*/ 
   padding: 30px;/**/ 
   width: 50%; /* Ширина блока */
 }
-aside {/*Правая колонка*/ 
+  aside {/*Правая колонка*/ 
   /*background: #EC5A45;/*Фон колонки*/ 
   padding: 30px;/**/ 
   margin-length: 40px;/*Определяет отступ в пикселях*/ 
@@ -105,17 +105,17 @@ aside {/*Правая колонка*/
 
 	
 table {
-	border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
+   border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
 	  }
 tbody tr:hover {
     background: #f3bd48; /* Цвет фона ячейки при наведении */
     color: blue; /* Цвет текста в ячейке при наведении */
    }
 ol { 
-}
+    }
 ul {
 	
-}
+    }
 img {
     float: right;/*Так изображение плавает справа от текста*/ 
-}
+    }
