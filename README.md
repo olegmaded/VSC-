@@ -19,7 +19,7 @@
         </div> 
 	  <div class="container">
           <button class="theme-button" type="button">Изменить тему</button>
-       </div>
+        </div>
      </header>
        <h1 id="ideveloper">Мы делаем работающие сайты</h1>
 	<br></br>
@@ -63,8 +63,7 @@
         <a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">ссылка переносит в начало текста
 	<br> <b> или можно создать оглавление если текст большой</b></a>
         <hr>
-      <ul><b>Название списка или заголовок перечня.</b>
-          <p> В начале списка точка</p>
+        <ul><b>Название списка или заголовок перечня.</b>
           <li>Можно создать списки на странице текст внутри </li>
           <li>длиннные списки того что нужно</li>
           <li>Или того что не нужно</li>
@@ -73,7 +72,7 @@
           <li><a href="https://www.gismeteo.ru/weather-samara-4618/10-days/">Или вот гисметео</a></li>
           <li><a href="https://pixabay.com/ru/photos/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D1%80%D1%8B-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D1%8B-1786430/" target="_blanc">Бесплатное фото - воздушные шарики</a></li>
           <br></br>
-	</ul>
+	 </ul>
 	 <p> А можно составить перечень с цифрами в начале строк</p>
 	     <ol>
 		<li> Первый пункт</li>
