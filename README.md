@@ -112,11 +112,10 @@
     	<a href="file://index.html#ideveloper">В начало страницы</a>
 	<br></br>
         <br></br>
-     <footer>
-      Какая-то информация об авторском праве
-      <p><a href="imag/кот в очках.jpg">Посмотрите на мою фотографию!</a></p>
-     </footer>
-  
+       <footer>
+          Какая-то информация об авторском праве
+          <p><a href="imag/кот в очках.jpg">Посмотрите на мою фотографию!</a></p>
+        </footer>
 </body>
 </html>
 # site-to-sell-sites
