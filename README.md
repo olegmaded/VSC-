@@ -21,7 +21,7 @@
           <button class="theme-button" type="button">Изменить тему</button>
         </div>
      </header>
-       <h1 id="ideveloper">Мы делаем работающие сайты</h1>
+    <h1 id="ideveloper">Мы делаем работающие сайты</h1>
 	<br></br>
        <div class="main-content">
           <a href=""https://htmlacademy.ru/" target="_blanc"> Проведем аудит работы ваших инструментов,
@@ -114,7 +114,7 @@
         <br></br>
        <footer>
           Какая-то информация об авторском праве
-          <p><a href="imag/кот в очках.jpg">Посмотрите на мою фотографию!</a></p>
+          <p><a href="кот в очках.jpg">Посмотрите на мою фотографию!</a></p>
         </footer>
 </body>
 </html>
