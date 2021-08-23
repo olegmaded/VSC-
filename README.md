@@ -28,11 +28,11 @@
 	  <br> посчитаем сколько приходит, откуда и как долго находится на сайте. </a>
        </div>
            <br></br>
-       <aside>
+         <aside>
            <a href=""https://htmlacademy.ru/" target="_blanc"> Составим список рекомендаций по увеличению конверсии
            <br>По каждому пункту аудита</a>
            <p><button class="button" type="button">Окей, продолжайте </button> </p>
-        </aside>
+          </aside>
         </div>
         <br></br>
       <h2 align=center> Написание оглавлений и гиперссылок.</h2>
