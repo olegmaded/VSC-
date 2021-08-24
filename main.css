@@ -94,16 +94,15 @@ container {
   /*background: #C9CCC8;/*Фон колонки*/ 
   padding: 30px;/**/ 
   width: 50%; /* Ширина блока */
-}
-  aside {/*Правая колонка*/ 
+    }
+aside {/*Правая колонка*/ 
   /*background: #EC5A45;/*Фон колонки*/ 
   padding: 30px;/**/ 
   margin-length: 40px;/*Определяет отступ в пикселях*/ 
    /*background-image:C:\Users\maded\Desktop\index\Веселый фон.jpg;/* Путь к фоновому изображению */
   flex-basis: 90px;/*Фиксируем ширину боковой колонки*/ 
   flex-shrink: 0; /*Значение предотвращает сужение колонки*/ 
-
-	
+}
 table {
    border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
 	  }
