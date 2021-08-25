@@ -55,7 +55,7 @@ body{
     font-family:Arial;/*ТИП шрифта основного текста*/
     color:#000000;/*Цвет шрифта основного текста*/
     font-weight: normal; /* Нормальное начертание шрифта*/
-    /*background-color:#FDF5E6; /* Цвет фона */
+    background-color:#FDF5E6; /* Цвет фона */
     /*margin: 1em 2em; /* отступы у основного поля страницы*/
     /*text-align: center;*//*Текст выравнивается по центру*/
     text-align: justify; /*Текст выравнивается по левому краю*/
