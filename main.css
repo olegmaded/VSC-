@@ -88,13 +88,13 @@ footer { /*Подвал страницы*/
 container {
       padding: 20px;
             }
-  main-content {
-  margin-right: 10px;/**/ 
-  /*background-image:C:\Users\maded\Desktop\index\Веселый фон.jpg;/* Путь к фоновому изображению */
-  /*background: #C9CCC8;/*Фон колонки*/ 
-  padding: 30px;/**/ 
-  width: 50%; /* Ширина блока */
-    }
+     main-content {
+     margin-right: 10px;/**/ 
+     /*background-image:C:\Users\maded\Desktop\index\Веселый фон.jpg;/* Путь к фоновому изображению */
+     /*background: #C9CCC8;/*Фон колонки*/ 
+     padding: 30px;/**/ 
+      width: 50%; /* Ширина блока */
+      }
 aside {/*Правая колонка*/ 
   /*background: #EC5A45;/*Фон колонки*/ 
   padding: 30px;/**/ 
