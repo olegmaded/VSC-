@@ -11,7 +11,7 @@
      <script src="app.js"></script>  
   </head>
   <body> 
-     <header <div class="topnav">
+    <header <div class="topnav">
           <a class="active" href="#home">Услуги</a>
           <a href="#news">Наши работы</a>
           <a href="#contact">Контакты</a>
@@ -20,7 +20,7 @@
 	  <div class="container">
           <button class="theme-button" type="button">Изменить тему</button>
         </div>
-     </header>
+    </header>
     <h1 id="ideveloper">Мы делаем работающие сайты</h1>
 	<br></br>
        <div class="main-content">
