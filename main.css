@@ -62,13 +62,13 @@ body{
     margin: 0; /* Убираем отступы у страницы */	
     }
 div { 
-     /*background: #fc0; /* Цвет фона блока */
-     /*padding: 10px; /* Поля блока*/
-     font-family:Courier New;/*ТИП шрифта в блоке*/
-     font-size: 25px;/*Размер шрифта в блоке*/
-     font-weight: 600;	/*Высота шрифта в блоке*/
-     -moz-box-sizing: border-box; /* Для Firefox */
-     -webkit-box-sizing: border-box; /* Для Safari и Chrome */
+      /*background: #fc0; /* Цвет фона блока */
+      /*padding: 10px; /* Поля блока*/
+      font-family:Courier New;/*ТИП шрифта в блоке*/
+      font-size: 25px;/*Размер шрифта в блоке*/
+      font-weight: 600;	/*Высота шрифта в блоке*/
+      -moz-box-sizing: border-box; /* Для Firefox */
+      -webkit-box-sizing: border-box; /* Для Safari и Chrome */
       box-sizing: border-box; /* Для IE и Opera */
       border: 0px solid #B25538; /*толщина границ блока*/
       /*text-align: center;/*Текст заголовка выравнивается по центру*/
