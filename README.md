@@ -16,10 +16,10 @@
           <a href="#news">Наши работы</a>
           <a href="#contact">Контакты</a>
           <a href="#about">Рейтинги</a>
-        </div> 
+       </div> 
 	  <div class="container">
           <button class="theme-button" type="button">Изменить тему</button>
-        </div>
+       </div>
     </header>
     <h1 id="ideveloper">Мы делаем работающие сайты</h1>
 	<br></br>
