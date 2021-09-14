@@ -26,16 +26,16 @@
        <div class="main-content">
           <a href=""https://htmlacademy.ru/" target="_blanc"> Проведем аудит работы ваших инструментов,
 	  <br> посчитаем сколько приходит, откуда и как долго находится на сайте. </a>
-       </div>
+      </div>
            <br></br>
-         <aside>
+        <aside>
            <a href=""https://htmlacademy.ru/" target="_blanc"> Составим список рекомендаций по увеличению конверсии
            <br>По каждому пункту аудита</a>
            <p><button class="button" type="button">Окей, продолжайте </button> </p>
-          </aside>
-        </div>
-        <br></br>
-      <h2 align=center> Написание оглавлений и гиперссылок.</h2>
+         </aside>
+       </div>
+       <br></br>
+    <h2 align=center> Написание оглавлений и гиперссылок.</h2>
         <ul><b>Список нужных ссылок для работы и отдыха:</b>
            <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
            <li><a href="https://atom.io/" target="_blanc">АТОМ</a></li>
